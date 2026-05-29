@@ -143,10 +143,11 @@ if run:
             if len(query_meta):
                 q = query_meta.iloc[0]
                 col1, col2, col3, col4 = st.columns(4)
-                col1.metric("Building", q.get("building_name") or "—")
-                col2.metric("Zoning", q.get("zoning") or "—")
+                def _val(v): return v if (v and not (isinstance(v, float) and pd.isna(v))) else "—"
+                col1.metric("Building", _val(q.get("building_name")))
+                col2.metric("Zoning", _val(q.get("zoning")))
                 col3.metric("GFA (sqm)", f"{q['gfa_sqm']:,.0f}" if pd.notna(q.get("gfa_sqm")) else "—")
-                col4.metric("Planning Area", q.get("planning_area") or "—")
+                col4.metric("Planning Area", _val(q.get("planning_area")))
 
                 query_mc = int(q.get("matrix_count", 0) or 0)
                 if query_mc < 2:
@@ -158,7 +159,12 @@ if run:
                     )
 
             if query_cluster >= 0:
-                st.info(f"**Cluster {query_cluster}** — {query_label}")
+                is_mixed = "[mixed]" in str(query_label)
+                msg = f"**Cluster {query_cluster}** — {query_label}"
+                if is_mixed:
+                    st.warning(msg + "  \n⚠️ This cluster has mixed/incomplete zoning data — label reflects the most common zone but membership spans multiple property types.")
+                else:
+                    st.info(msg)
             else:
                 st.warning("This property is a unique outlier — results use raw cosine similarity without cluster context.")
 
