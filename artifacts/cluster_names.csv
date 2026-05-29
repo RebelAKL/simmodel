@@ -1,0 +1,51 @@
+cluster_id,size,top_zone,top_pa,mean_gfa_m2,dominant_pc,pc_profile,auto_label
+12,211,Business 2,TUAS,18525.29597014925,PC5,+has_physical_da/Private -Unknown/GPR,Business 2 / TUAS / GFA~19ksqm
+0,121,,PIONEER,,PC5,+has_physical_da/Private -Unknown/GPR, / PIONEER / GFA~?sqm
+9,105,Business 2,CLEMENTI,,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / CLEMENTI / GFA~?sqm
+6,73,Business 2,CLEMENTI,495.38630136986296,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / CLEMENTI / GFA~0ksqm
+26,67,Business 2,JURONG WEST,5993.767692307692,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / JURONG WEST / GFA~6ksqm
+2,59,Business 2,CLEMENTI,531.6462711864407,PC5,+has_physical_da/Private -Unknown/GPR,Business 2 / CLEMENTI / GFA~1ksqm
+42,59,Business 1,ANG MO KIO,30474.43733333333,PC3,+BikeRacks/bp_count_500m_d -clinic_count_50/bank_count_500m,Business 1 / ANG MO KIO / GFA~30ksqm
+22,58,Business 2,ANG MO KIO,46010.31046511628,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / ANG MO KIO / GFA~46ksqm
+20,54,Business 1,ANG MO KIO,13567.185185185184,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 1 / ANG MO KIO / GFA~14ksqm
+16,53,Business 2,SEMBAWANG,3754.251509433962,PC5,+has_physical_da/Private -Unknown/GPR,Business 2 / SEMBAWANG / GFA~4ksqm
+3,52,Business 1,TOA PAYOH,12347.613076923077,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 1 / TOA PAYOH / GFA~12ksqm
+49,52,Business 2,TUAS,22262.102499999997,PC2,+carpark_count_5/atm_count_500m_ -EV/carpark_nearest,Business 2 / TUAS / GFA~22ksqm
+27,51,Business 2,PIONEER,8443.669629629629,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / PIONEER / GFA~8ksqm
+11,50,Business 2,TUAS,6442.205000000001,PC5,+has_physical_da/Private -Unknown/GPR,Business 2 / TUAS / GFA~6ksqm
+17,44,Business 1,ANG MO KIO,17880.98,PC5,+has_physical_da/Private -Unknown/GPR,Business 1 / ANG MO KIO / GFA~18ksqm
+10,43,Business 1,ANG MO KIO,7600.23,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 1 / ANG MO KIO / GFA~8ksqm
+47,42,Business 2,PIONEER,9621.0275,PC2,+carpark_count_5/atm_count_500m_ -EV/carpark_nearest,Business 2 / PIONEER / GFA~10ksqm
+39,37,Business 1,TOA PAYOH,18913.1925,PC3,+BikeRacks/bp_count_500m_d -clinic_count_50/bank_count_500m,Business 1 / TOA PAYOH / GFA~19ksqm
+31,36,Business 2,JURONG EAST,27578.306785714285,PC2,+carpark_count_5/atm_count_500m_ -EV/carpark_nearest,Business 2 / JURONG EAST / GFA~28ksqm
+28,36,Business 2,TAMPINES,18107.211666666666,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / TAMPINES / GFA~18ksqm
+48,35,Business 2,SUNGEI KADUT,9696.622857142856,PC2,+carpark_count_5/atm_count_500m_ -EV/carpark_nearest,Business 2 / SUNGEI KADUT / GFA~10ksqm
+19,33,Business 2,SEMBAWANG,31921.232727272727,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / SEMBAWANG / GFA~32ksqm
+30,33,Business 2,GEYLANG,35603.32266666667,PC6,+EV/fire_station_co -post_office_cou/clinic_count_50,Business 2 / GEYLANG / GFA~36ksqm
+34,32,Special Use,SUNGEI KADUT,,PC5,+has_physical_da/Private -Unknown/GPR,Special Use / SUNGEI KADUT / GFA~?sqm
+41,32,Business 2,PIONEER,21136.84375,PC2,+carpark_count_5/atm_count_500m_ -EV/carpark_nearest,Business 2 / PIONEER / GFA~21ksqm
+13,31,Business 2,SEMBAWANG,7691.616129032258,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / SEMBAWANG / GFA~8ksqm
+46,31,Business 2,JURONG WEST,4496.4765,PC2,+carpark_count_5/atm_count_500m_ -EV/carpark_nearest,Business 2 / JURONG WEST / GFA~4ksqm
+21,30,Business 1,ANG MO KIO,1119.7896666666668,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 1 / ANG MO KIO / GFA~1ksqm
+14,30,Business 2,SERANGOON,40631.971666666665,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / SERANGOON / GFA~41ksqm
+36,29,Business 2,BEDOK,24315.26636363636,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / BEDOK / GFA~24ksqm
+8,29,Business 2,TUAS,8560.34,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / TUAS / GFA~9ksqm
+15,29,Business 2,PIONEER,25193.888965517242,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / PIONEER / GFA~25ksqm
+38,29,Business 1,GEYLANG,6068.196666666667,PC2,+carpark_count_5/atm_count_500m_ -EV/carpark_nearest,Business 1 / GEYLANG / GFA~6ksqm
+35,28,Business 1,SERANGOON,34068.5375,PC6,+EV/fire_station_co -post_office_cou/clinic_count_50,Business 1 / SERANGOON / GFA~34ksqm
+40,28,Business 2,BEDOK,14603.460000000001,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / BEDOK / GFA~15ksqm
+23,27,Business 2,SERANGOON,36142.769,PC4,+GoodsLift/LoadingBay -bp_count_500m_d/bp_count_500m_w,Business 2 / SERANGOON / GFA~36ksqm
+7,26,Business 2,TUAS,4922.526923076924,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / TUAS / GFA~5ksqm
+37,24,Business 1,BUKIT MERAH,39841.677500000005,PC6,+EV/fire_station_co -post_office_cou/clinic_count_50,Business 1 / BUKIT MERAH / GFA~40ksqm
+18,23,Business Park,QUEENSTOWN,30957.384000000002,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business Park / QUEENSTOWN / GFA~31ksqm
+32,21,Business 1,GEYLANG,8848.761428571428,PC6,+EV/fire_station_co -post_office_cou/clinic_count_50,Business 1 / GEYLANG / GFA~9ksqm
+33,21,Residential,BUKIT BATOK,138677.654,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Residential / BUKIT BATOK / GFA~139ksqm
+1,20,Business 2,WOODLANDS,488.86499999999995,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / WOODLANDS / GFA~0ksqm
+24,19,Business 2,TUAS,14566.895,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / TUAS / GFA~15ksqm
+4,19,Reserve Site,HOUGANG,11380.358333333332,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Reserve Site / HOUGANG / GFA~11ksqm
+43,19,Business 1,GEYLANG,7123.533333333334,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 1 / GEYLANG / GFA~7ksqm
+44,18,Business 1,GEYLANG,59097.72,PC6,+EV/fire_station_co -post_office_cou/clinic_count_50,Business 1 / GEYLANG / GFA~59ksqm
+25,17,Business 2,BEDOK,592.8105882352941,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / BEDOK / GFA~1ksqm
+5,16,Business 2,BEDOK,,PC1,+wbgt_p95/has_location_da -Business 2/has_physical_da,Business 2 / BEDOK / GFA~?sqm
+29,16,Business 1,GEYLANG,16524.54,PC5,+has_physical_da/Private -Unknown/GPR,Business 1 / GEYLANG / GFA~17ksqm
+45,16,Business 2,BOON LAY,63708.721875,PC2,+carpark_count_5/atm_count_500m_ -EV/carpark_nearest,Business 2 / BOON LAY / GFA~64ksqm
